@@ -1,0 +1,77 @@
+body {
+	background: whitesmoke;
+}
+
+#title {
+	color: midnightblue;
+	font-family: Helvetica; 
+	text-align: center;
+	text-decoration: underline;
+	font-size: 40px;
+	font-weight: bold;
+	line-height: normal;
+	letter-spacing: 3px;
+}
+
+.title1 {
+	color: midnightblue;
+	font-family: Gill Sans;
+	font-style: bold; 
+	text-align: center;
+	font-size: 30px;
+}
+
+.title2 {
+	color: midnightblue;
+	font-family: Gill Sans;
+	font-style: bold;
+	text-align: left;
+	font-size: 25px;
+	padding-left: 30px;
+}
+
+p {
+	text-align: justify;
+	padding-left: 250px; 
+	padding-right: 250px;
+	font-family: Times New Roman;
+}
+
+ul {
+	text-align: justify;
+	padding-left: 250px;
+	padding-right: 250px;
+}
+
+
+.table {
+	border: 5px black solid;
+	font-family: Gill Sans;
+	font-style: bold;
+	text-align: left;
+	background: aliceblue;
+	display: inline-block;
+	padding-right: 30px;
+
+}
+
+.boom {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+.bold{
+	text-transform: capitalize;
+}
+
+
+
+
+
+
+
+
+
