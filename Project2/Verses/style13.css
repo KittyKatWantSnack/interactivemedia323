@@ -1,0 +1,12 @@
+.main {
+	font-family: OCR A Std;
+	text-align: center;
+	color: black;
+	font-size: 18px;
+}
+
+p {
+	border: dotted grey 700px;
+	padding: 10px;
+	width: 150px;
+}

@@ -1,0 +1,327 @@
+body {
+	height: auto;
+	width: auto;
+	background-image: linear-gradient(to right, black, grey, lightgrey, white, lightgrey, grey, black);
+}
+
+.main {
+	font-family: OCR A Std;
+	text-align: center;
+	color: black;
+	font-size: 18px;
+}
+
+@-webkit-keyframes GRAVE{
+	from {color: black}
+	to {color: #6C4005;}
+}
+
+@keyframes GRAVE{
+	from {color: black;}
+	to {color: #6C4005}
+}
+
+@-webkit-keyframes WAVE{
+	from {color: black}
+	to {color: #001E6F}
+}
+
+@keyframes WAVE{
+	from {color: black}
+	to {color: #001E6F}
+}
+
+@-webkit-keyframes SKY{
+	from {color: black}
+	to {color: #76E7F9}
+}
+
+@keyframes SKY{
+	from {color: black}
+	to {color: #76E7F9}
+}
+
+@-webkit-keyframes MOSS{
+	from {color: black}
+	to {color: #34613D}
+}
+
+@keyframes MOSS{
+	from {color: black}
+	to {color: #34613D}
+}
+
+@-webkit-keyframes HARP{
+	from {color: black}
+	to {color: #BC9E08}
+}
+
+@keyframes HARP{
+	from {color: black}
+	to {color: #BC9E08}
+}
+
+@-webkit-keyframes SHARP{
+	from {color: black}
+	to {color: #8A0000}
+}
+
+@keyframes SHARP{
+	from {color: black}
+	to {color: #8A0000}
+}
+
+@-webkit-keyframes BLOW{
+	from {color: black}
+	to {color: #7594A6}
+}
+
+@keyframes BLOW{
+	from {color: black}
+	to {color: #7594A6}
+}
+
+@-webkit-keyframes SLOW{
+	from {color: black}
+	to {color: #668366}
+}
+
+@keyframes SLOW{
+	from {color: black}
+	to {color: #668366}
+}
+
+@-webkit-keyframes RARE{
+	from {color: black}
+	to {color: #57478D}
+}
+
+@keyframes RARE{
+	from {color: black}
+	to {color: #57478D}
+}
+
+@-webkit-keyframes THERE{
+	from {color: black}
+	to {color: #E0E0E1}
+}
+
+@keyframes THERE{
+	from {color: black}
+	to {color: #E0E0E1}
+}
+
+.ONE {
+	font-family: Trattatello;
+	font-size: 30px;
+	margin-left: 150px;
+}
+
+.First {
+	font-family: Trattatello;
+	font-size: 70px;
+	margin-left: 280px;
+	color: black;
+	animation-name: GRAVE;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate-reverse;
+	-webkit-animation-name: GRAVE;
+	-webkit-animation-duration: 4s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: alternate-reverse;
+}
+
+.TWO {
+	font-family: Trattatello;
+	font-size: 30px;
+	margin-left: 350px;
+ }
+
+ .Second {
+	font-family: Trattatello;
+	font-size: 70px;
+	margin-left: 480px;
+	color: black;
+	animation-name: WAVE;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate-reverse;
+	-webkit-animation-name: WAVE;
+	-webkit-animation-duration: 4s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: alternate-reverse;
+ }
+
+ .THREE {
+	font-family: Trattatello;
+	font-size: 30px;
+	margin-left: 550px;
+ }
+
+ .Third {
+	font-family: Trattatello;
+	font-size: 70px;
+	margin-left: 680px;
+	color: black;
+	animation-name: SKY;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate-reverse;
+	-webkit-animation-name: SKY;
+	-webkit-animation-duration: 4s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: alternate-reverse;
+ }
+
+ .FOUR {
+	font-family: Trattatello;
+	font-size: 30px;
+	margin-left: 750px;
+ }
+
+ .Fourth {
+	font-family: Trattatello;
+	font-size: 70px;
+	margin-left: 880px;
+	color: black;
+	animation-name: MOSS;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate-reverse;
+	-webkit-animation-name: MOSS;
+	-webkit-animation-duration: 4s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: alternate-reverse;
+ }
+
+ .FIVE {
+	font-family: Trattatello;
+	font-size: 30px;
+	margin-left: 950px;
+ }
+
+ .Fifth {
+	font-family: Trattatello;
+	font-size: 70px;
+	margin-left: 1080px;
+	color: black;
+	animation-name: HARP;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate-reverse;
+	-webkit-animation-name: HARP;
+	-webkit-animation-duration: 4s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: alternate-reverse;
+ }
+
+ .SIX {
+ 	font-family: Trattatello;
+	font-size: 30px;
+	margin-left: 1150px;
+
+ }
+
+ .Sixth {
+	font-family: Trattatello;
+	font-size: 70px;
+	margin-left: 1280px;
+	color: black;
+	animation-name: SHARP;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate-reverse;
+	-webkit-animation-name: SHARP;
+	-webkit-animation-duration: 4s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: alternate-reverse;
+ }
+
+ .SEVEN {
+ 	font-family: Trattatello;
+	font-size: 30px;
+	margin-left: 1350px;
+
+ }
+
+ .Seventh {
+	font-family: Trattatello;
+	font-size: 70px;
+	margin-left: 1480px;
+	color: black;
+	animation-name: BLOW;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate-reverse;
+	-webkit-animation-name: BLOW;
+	-webkit-animation-duration: 4s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: alternate-reverse;
+ }
+
+ .EIGHT {
+ 	font-family: Trattatello;
+	font-size: 30px;
+	margin-left: 1550px;
+
+ }
+
+ .Eighth {
+	font-family: Trattatello;
+	font-size: 70px;
+	margin-left: 1680px;
+	color: black;
+	animation-name: SLOW;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate-reverse;
+	-webkit-animation-name: SLOW;
+	-webkit-animation-duration: 4s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: alternate-reverse;
+ }
+
+ .NINE {
+ 	font-family: Trattatello;
+	font-size: 30px;
+	margin-left: 1750px;
+
+ }
+
+ .Ninth {
+	font-family: Trattatello;
+	font-size: 70px;
+	margin-left: 1880px;
+	color: black;
+	animation-name: RARE;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate-reverse;
+	-webkit-animation-name: RARE;
+	-webkit-animation-duration: 4s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: alternate-reverse;
+ }
+
+ .TEN {
+ 	font-family: Trattatello;
+	font-size: 30px;
+	margin-left: 1950px;
+ 	
+ }
+
+ .Tenth {
+	font-family: Trattatello;
+	font-size: 70px;
+	margin-left: 2080px;
+	color: black;
+	animation-name: THERE;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate-reverse;
+	-webkit-animation-name: THERE;
+	-webkit-animation-duration: 4s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: alternate-reverse;
+ }

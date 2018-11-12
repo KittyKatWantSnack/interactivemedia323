@@ -1,0 +1,127 @@
+.main {
+	font-family: OCR A Std;
+	text-align: center;
+	color: black;
+	font-size: 18px;
+}
+
+.One {
+	font-family: cursive;
+	letter-spacing: 3px;
+	text-align: center;
+	font-size: 30px;
+	color: gainsboro;
+	border: 15px solid gainsboro;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 0;
+
+}
+
+.Two {
+	font-family: cursive;
+	letter-spacing: 3px;
+	text-align: center;
+	font-size: 30px;
+	color: lightgrey;
+	border: 15px solid lightgrey;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 78px;
+}
+
+.Three {
+	font-family: cursive;
+	letter-spacing: 3px;
+	text-align: center;
+	font-size: 30px;
+	color: silver;
+	border: 15px solid silver;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 156px;
+}
+
+.Four {
+	font-family: cursive;
+	letter-spacing: 3px;
+	text-align: center;
+	font-size: 30px;
+	color: darkgrey;
+	border: 15px solid darkgrey;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 234px;
+}
+
+.Five {
+	font-family: cursive;
+	letter-spacing: 3px;
+	text-align: center;
+	font-size: 30px;
+	color: #9D9C9C;
+	border: 15px solid #9D9C9C;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 312px;
+}
+
+.Six {
+	font-family: cursive;
+	letter-spacing: 3px;
+	text-align: center;
+	font-size: 30px;
+	color: #8E8E8E;
+	border: 15px solid #8E8E8E;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 390px;
+}
+
+.Seven {
+	font-family: cursive;
+	letter-spacing: 3px;
+	text-align: center;
+	font-size: 30px;
+	color: grey;
+	border: 15px solid grey;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 468px;
+}
+
+.Eight {
+	font-family: cursive;
+	letter-spacing: 3px;
+	text-align: center;
+	font-size: 30px;
+	color: dimgrey;
+	border: 15px solid dimgrey;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 546px;
+}
+
+.Nine {
+	font-family: cursive;
+	letter-spacing: 3px;
+	text-align: center;
+	font-size: 30px;
+	color: #343434;
+	border: 15px solid #343434;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 624px;
+}
+
+.Ten {
+	font-family: cursive;
+	letter-spacing: 3px;
+	text-align: center;
+	font-size: 30px;
+	color: black;
+	border: 15px solid black;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 702px;
+}

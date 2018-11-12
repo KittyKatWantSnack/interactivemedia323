@@ -1,0 +1,116 @@
+.main {
+	font-family: OCR A Std;
+	text-align: center;
+	color: black;
+	font-size: 18px;
+}
+
+.One {
+	font-family: Didot; 
+	font-weight: lighter;
+	letter-spacing: 6px;
+	text-align: center;
+	font-size: 40px;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 700px;
+}
+
+.Two {
+	font-family: Didot; 
+	font-weight: lighter;
+	letter-spacing: 6px;
+	text-align: center;
+	font-size: 32px;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 650px;
+}
+
+.Three {
+	font-family: Didot; 
+	font-weight: lighter;
+	letter-spacing: 6px;
+	text-align: center;
+	font-size: 29px;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 600px;
+}
+
+.Four {
+	font-family: Didot; 
+	font-weight: lighter;
+	letter-spacing: 6px;
+	text-align: center;
+	font-size: 22px;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 550px;
+}
+
+.Five {
+	font-family: Didot; 
+	font-weight: lighter;
+	letter-spacing: 6px;
+	text-align: center;
+	font-size: 18px;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 500px;
+}
+
+.Six {
+	font-family: Didot; 
+	font-weight: lighter;
+	letter-spacing: 6px;
+	text-align: center;
+	font-size: 16px;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 450px;
+}
+
+.Seven {
+	font-family: Didot; 
+	font-weight: lighter;
+	letter-spacing: 6px;
+	text-align: center;
+	font-size: 14px;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 400px;
+}
+
+.Eight {
+	font-family: Didot; 
+	font-weight: lighter;
+	letter-spacing: 6px;
+	text-align: center;
+	font-size: 10px;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 350px;
+}
+
+.Nine {
+	font-family: Didot; 
+	font-weight: bold;
+	letter-spacing: 6px;
+	text-align: center;
+	font-size: 8px;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 300px;
+}
+
+.Ten {
+	font-family: Didot; 
+	font-weight: bold;
+	letter-spacing: 6px;
+	text-align: center;	
+	font-size: 6px;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 250px;
+}

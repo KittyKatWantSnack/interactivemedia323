@@ -1,0 +1,35 @@
+.main {
+	font-family: OCR A Std;
+	text-align: center;
+	color: black;
+	font-size: 18px;
+}
+
+h2 {
+	width: 120px;
+	padding: 50px;
+}
+
+h3{
+	width: 100px;
+	padding: 50px;
+	margin-left: 300px;
+}
+
+h4{
+	width: 80px;
+	padding: 50px;
+	margin-left: 900px;
+}
+
+h5{
+	width: 60px;
+	padding: 50px;
+	margin-left: 1500px;
+}
+
+h6{
+	width: 50px;
+	padding: 50px;
+	margin-left: 2000px;
+}

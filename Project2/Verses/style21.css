@@ -1,0 +1,150 @@
+.ONE {
+	font-family: Gill Sans;
+	font-size: 40px;
+	text-align: center;
+	color: black;
+	transition: color 0.3s;
+	-webkit-transition:color 0.3s;
+	font-weight: bold;
+}
+
+.ONE:hover {
+	color: white;
+}
+
+ body {
+ 	background: black;
+ }
+
+ .main {
+	font-family: OCR A Std;
+	text-align: center;
+	color: white;
+	font-size: 18px;
+}
+
+ .TWO {
+	font-family: Gill Sans;
+	font-size: 40px;
+	text-align: center;
+	color: black;
+	transition: color 0.3s;
+	-webkit-transition:color 0.3s;
+	font-weight: bold;
+ }
+
+.TWO:hover {
+	color: white;
+}
+
+ .THREE {
+	font-family: Gill Sans;
+	font-size: 40px;
+	text-align: center;
+	color: black;
+	transition: color 0.3s;
+	-webkit-transition:color 0.3s;
+	font-weight: bold;
+ }
+
+.THREE:hover {
+	color: white;
+}
+
+ .FOUR {
+	font-family: Gill Sans;
+	font-size: 40px;
+	text-align: center;
+	color: black;
+	transition: color 0.3s;
+	-webkit-transition:color 0.3s;
+	font-weight: bold;
+ }
+
+ .FOUR:hover {
+ 	color: white;
+ }
+
+ .FIVE {
+	font-family: Gill Sans;
+	font-size: 40px;
+	text-align: center;
+	color: black;
+	transition: color 0.3s;
+	-webkit-transition:color 0.3s;
+	font-weight: bold;
+ }
+
+ .FIVE:hover {
+ 	color: white;
+ }
+
+ .SIX {
+	font-family: Gill Sans;
+	font-size: 40px;
+	text-align: center;
+	color: black;
+	transition: color 0.3s;
+	-webkit-transition:color 0.3s;
+	font-weight: bold;
+ }
+
+ .SIX:hover {
+ 	color: white;
+ }
+
+ .SEVEN {
+	font-family: Gill Sans;
+	font-size: 40px;
+	text-align: center;
+	color: black;
+	transition: color 0.3s;
+	-webkit-transition:color 0.3s;
+	font-weight: bold;
+ }
+
+ .SEVEN:hover {
+ 	color: white;
+ }
+
+ .EIGHT {
+	font-family: Gill Sans;
+	font-size: 40px;
+	text-align: center;
+	color: black;
+	transition: color 0.3s;
+	-webkit-transition:color 0.3s;
+	font-weight: bold;
+ }
+
+.EIGHT:hover {
+	color: white;
+}
+
+ .NINE {
+	font-family: Gill Sans;
+	font-size: 40px;
+	text-align: center;
+	color: black;
+	transition: color 0.3s;
+	-webkit-transition:color 0.3s;
+	font-weight: bold;
+ }
+
+.NINE:hover {
+	color: white;
+}
+
+ .TEN {
+	font-family: Gill Sans;
+	font-size: 40px;
+	text-align: center;
+	color: black;
+	transition: color 0.3s;
+	-webkit-transition:color 0.3s;
+	font-weight: bold;
+ }
+
+ .TEN:hover {
+ 	color: white;
+ }

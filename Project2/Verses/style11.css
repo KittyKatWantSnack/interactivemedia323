@@ -1,0 +1,32 @@
+.main {
+	font-family: OCR A Std;
+	text-align: center;
+	color: black;
+	font-size: 18px;
+}
+
+p {
+	width: 50px;
+	padding-left:20px;
+	border: 4px black solid;
+	display: inline-block;
+	padding-right: 30px;
+	margin-left: 480px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+h3 {
+	display: inline-block;
+	padding-right: 10px;
+	margin-left: 400px;
+	padding-left: 10px;
+	border: 4px black dotted;
+}
+
+h4 {
+	display: inline-block;
+	padding-right: 30px;
+	padding-left: 20px;
+	margin-left: 400px;
+}

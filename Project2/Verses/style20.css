@@ -1,0 +1,151 @@
+.main {
+	font-family: OCR A Std;
+	text-align: center;
+	color: black;
+	font-size: 18px;
+}
+
+
+.One {
+	font-family: Gill Sans;
+	font-weight: normal;
+	font-size: 25px;
+	letter-spacing: 9px;
+	border: 5px grey dotted;
+	padding: 20px;
+	text-align: left;
+	margin-left: 600px;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 120px;
+}
+
+.Two {
+	font-family: Gill Sans;
+	font-weight: normal;
+	font-size: 25px;
+	letter-spacing: 9px;
+	border: 5px grey dotted;
+	padding: 20px;
+	text-align: left;
+	margin-left: 600px;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 220px;
+}
+
+.Three {
+	font-family: Gill Sans;
+	font-weight: normal;
+	font-size: 25px;
+	letter-spacing: 9px;
+	border: 5px grey dotted;
+	padding: 20px;
+	text-align: left;
+	margin-left: 600px;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 320px;
+}
+
+.Four {
+	font-family: Gill Sans;
+	font-weight: normal;
+	font-size: 25px;
+	letter-spacing: 9px;
+	border: 5px grey dotted;
+	padding: 20px;
+	text-align: left;
+	margin-left: 600px;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 420px;
+}
+
+.Five {
+	font-family: Gill Sans;
+	font-weight: normal;
+	font-size: 25px;
+	letter-spacing: 9px;
+	border: 5px grey dotted;
+	padding: 20px;
+	text-align: left;
+	margin-left: 600px;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 520px;
+}
+
+.Six {
+	font-family: Gill Sans;
+	font-weight: normal;
+	font-size: 25px;
+	letter-spacing: 9px;
+	border: 5px grey dotted;
+	padding: 20px;
+	text-align: left;
+	margin-left: 600px;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 620px;
+}
+
+.Seven {
+	font-family: Gill Sans;
+	font-weight: normal;
+	font-size: 25px;
+	letter-spacing: 9px;
+	border: 5px grey dotted;
+	padding: 20px;
+	text-align: left;
+	margin-left: 600px;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 720px;
+}
+
+.Eight {
+	font-family: Gill Sans;
+	font-weight: normal;
+	font-size: 25px;
+	letter-spacing: 9px;
+	border: 5px grey dotted;
+	padding: 20px;
+	text-align: left;
+	margin-left: 600px;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 820px;
+}
+
+.Nine {
+	font-family: Gill Sans;
+	font-weight: normal;
+	font-size: 25px;
+	letter-spacing: 9px;
+	border: 5px grey dotted;
+	padding: 20px;
+	text-align: left;
+	margin-left: 600px;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 920px;
+}
+
+.Ten {
+	font-family: Gill Sans;
+	font-weight: normal;
+	font-size: 25px;
+	letter-spacing: 9px;
+	border: 5px grey dotted;
+	padding: 20px;
+	text-align: left;	
+	margin-left: 600px;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 1020px;
+}
+
+p {
+	font-family: Courier New;
+}

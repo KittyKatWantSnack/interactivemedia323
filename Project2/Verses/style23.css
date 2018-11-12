@@ -1,0 +1,270 @@
+@keyframes FLOAT{
+	from {margin-top: 0px}
+	to {margin-top: 30px}
+}
+
+@-webkit-keyframes FLOAT{
+	from {margin-top: 0px}
+	to {margin-top: 30px}
+}
+
+@keyframes CHANGE{
+	0% {background-color: #062138}
+
+	50% {background-color: #3D4E76}
+
+	100% {background-color: #062138}
+}
+
+@-webkit-keyframes CHANGE {
+	0% {background-color: #062138}
+
+	50% {background-color: #3D4E76}
+
+	100% {background-color: #062138}
+}
+
+body {
+	background-color: #062138;
+	animation: CHANGE 4s infinite;
+	background-attachment: fixed;
+	-webkit-animation: CHANGE 4s infinite;
+}
+
+.main {
+	font-family: OCR A Std;
+	text-align: center;
+	color: white;
+	font-size: 18px;
+}
+
+.ONE {
+	font-family: OCR A Std;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background: grey;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	text-align: center;
+	left: 10%;
+	position: absolute;
+	animation: 2s infinite;
+	animation-name: FLOAT;
+	animation-direction: alternate-reverse;
+	-webkit-animation: 2s infinite;
+	-webkit-animation-name: FLOAT;
+	-webkit-animation-direction: alternate-reverse;
+
+}
+
+.TWO {
+	font-family: OCR A Std;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background: #3E6282;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	text-align: center;
+	left: 15%;
+	top: 25%;
+	position: absolute;
+	animation: 3s infinite;
+	animation-name: FLOAT;
+	animation-direction: alternate-reverse;
+	-webkit-animation: 3s infinite;
+	-webkit-animation-name: FLOAT;
+	-webkit-animation-direction: alternate-reverse;
+
+}
+
+.THREE {
+	font-family: OCR A Std;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background: #646898;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	text-align: center;
+	left: 23%;
+	top: 30%;
+	position: absolute;
+	animation: 4s infinite;
+	animation-name: FLOAT;
+	animation-direction: alternate-reverse;
+	-webkit-animation: 4s infinite;
+	-webkit-animation-name: FLOAT;
+	-webkit-animation-direction: alternate-reverse;
+}
+
+.FOUR {
+	font-family: OCR A Std;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background: #53848C;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	text-align: center;
+	left: 27%;
+	top: 40%;
+	position: absolute;
+	animation: 3.5s infinite;
+	animation-name: FLOAT;
+	animation-direction: alternate-reverse;
+	-webkit-animation: 3.5s infinite;
+	-webkit-animation-name: FLOAT;
+	-webkit-animation-direction: alternate-reverse;
+}
+
+.FIVE {
+	font-family: OCR A Std;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background: slategrey;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	text-align: center;
+	left: 36%;
+	top: 50%;
+	position: absolute;
+	animation: 1.5s infinite;
+	animation-name: FLOAT;
+	animation-direction: alternate-reverse;
+	-webkit-animation: 1.5s infinite;
+	-webkit-animation-name: FLOAT;
+	-webkit-animation-direction: alternate-reverse;
+}
+
+.SIX {
+	font-family: OCR A Std;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background: #6C9393;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	text-align: center;
+	left: 47%;
+	top: 36%;
+	position: absolute;
+	animation: 5s infinite;
+	animation-name: FLOAT;
+	animation-direction: alternate-reverse;
+	-webkit-animation: 5s infinite;
+	-webkit-animation-name: FLOAT;
+	-webkit-animation-direction: alternate-reverse;
+}
+
+.SEVEN {
+	font-family: OCR A Std;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background: #7AABC4;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	text-align: center;
+	left: 54%;
+	top: 27%;
+	position: absolute;
+	animation: .7s infinite;
+	animation-name: FLOAT;
+	animation-direction: alternate-reverse;
+	-webkit-animation: .7s infinite;
+	-webkit-animation-name: FLOAT;
+	-webkit-animation-direction: alternate-reverse;
+}
+
+.EIGHT {
+	font-family: OCR A Std;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background: #85858E;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	text-align: center;
+	left: 62%;
+	top: 39%;
+	position: absolute;
+	animation: 1.7s infinite;
+	animation-name: FLOAT;
+	animation-direction: alternate-reverse;
+	-webkit-animation: 1.7s infinite;
+	-webkit-animation-name: FLOAT;
+	-webkit-animation-direction: alternate-reverse;
+}
+
+.NINE {
+	font-family: OCR A Std;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background: #C2C2DC;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	text-align: center;
+	left: 70%;
+	top: 24%;
+	position: absolute;
+	animation: 3.2s infinite;
+	animation-name: FLOAT;
+	animation-direction: alternate-reverse;
+	-webkit-animation: 3.2s infinite;
+	-webkit-animation-name: FLOAT;
+	-webkit-animation-direction: alternate-reverse;
+}
+
+.TEN {
+	font-family: OCR A Std;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background: #6F6FA1;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	text-align: center;
+	left: 81%;
+	top: 70%;
+	position: absolute;
+	animation: 2.2s infinite;
+	animation-name: FLOAT;
+	animation-direction: alternate-reverse;
+	-webkit-animation: 2.2s infinite;
+	-webkit-animation-name: FLOAT;
+	-webkit-animation-direction: alternate-reverse;
+}

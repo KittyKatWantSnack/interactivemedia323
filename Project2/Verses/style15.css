@@ -1,0 +1,62 @@
+.main {
+	font-family: OCR A Std;
+	text-align: center;
+	color: black;
+	font-size: 18px;
+}
+
+.General {
+	margin-left: 300px;
+	margin-top: 200px;
+	display: inline-block;
+}
+
+.One {
+	z-index: -1;
+	border: dotted black 30px;
+}
+
+.Two {
+	z-index: -1;
+	border: dotted grey 30px;
+}
+
+.Three {
+	z-index: -1;
+	border: dotted black 30px;
+}
+
+.Four {
+	z-index: -1;
+	border: dotted grey 30px;
+}
+
+.Five {
+	z-index: -1;
+	border: dotted black 30px;
+}
+
+.Six {
+	z-index: -1;
+	border: dotted grey 30px;
+}
+
+.Seven {
+	z-index: -1;
+	border: dotted black 30px;
+}
+
+.Eight {
+	z-index: -1;
+	border: dotted grey 30px;
+}
+
+.Nine {
+	z-index: -1;
+	border: dotted black 30px;
+}
+
+.Ten {
+	z-index: -1;
+	border: dotted grey 30px;
+}

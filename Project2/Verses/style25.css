@@ -1,0 +1,260 @@
+body {
+	background-image: linear-gradient(black, #010113, #020227, #05053C, #4F0B3D, #9E0808, #D56712, #E2D84E);
+	background-attachment: fixed;
+}
+
+@keyframes FLOAT {
+	from {margin-top: 0px}
+	to {margin-top: 20px}
+}
+
+@-webkit-keyframes FLOAT {
+	from {margin-top: 0px}
+	to {margin-top: 20px}	
+}
+
+.moon {
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+	box-shadow: 15px 15px 0 0 #E1E3BE;
+	position: absolute;
+	animation: 4s infinite;
+	animation-name: FLOAT;
+	animation-direction: alternate-reverse;
+	-webkit-animation: 4s infinite;
+	-webkit-animation-name: FLOAT;
+	-webkit-animation-direction: alternate-reverse;
+	left: 70%;
+}
+
+.star {
+    width: 2px;
+    height: 2px;
+    border-radius: 50%;
+    background-color: #EAECC9;
+    position: absolute;
+    left: 84%;
+    top: 150px;
+    box-shadow:
+        0 0 6px 3px #fff, 
+        0 0 8px 4px #f0f,
+        0 0 12px 6px #0ff; 
+}
+
+.main {
+	font-family: OCR A Std;
+	text-align: center;
+	color: white;
+	font-size: 18px;
+}
+
+.ONE {
+	font-family: Optima;
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+	position: absolute;
+	width: 500px;
+	height: 35px;
+	border: grey 2px solid;
+	padding: 8px;
+	background:#010113;
+	color: white;
+	margin-left: 20px;
+	transition:margin-left 1s;
+	-webkit-transition:margin-left 1s;
+}
+
+.ONE:hover {
+	margin-left: 1300px;
+}
+
+.TWO {
+	font-family: Optima;
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+	position: absolute;
+	width: 530px;
+	height: 35px;
+	border: grey 2px solid;
+	padding: 8px;
+	background:#010113;
+	color: white;
+	margin-left: 20px;
+	transition:margin-left 1s;
+	-webkit-transition:margin-left 1s;
+}
+
+.TWO:hover {
+	margin-left: 1200px;
+}
+
+.THREE {
+	font-family: Optima;
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+	position: absolute;
+	width: 420px;
+	height: 35px;
+	border: grey 2px solid;
+	padding: 8px;
+	background:#010113;
+	color: white;
+	margin-left: 20px;
+	transition:margin-left 1s;
+	-webkit-transition:margin-left 1s;
+}
+
+.THREE:hover {
+	margin-left: 1100px;
+}
+
+.FOUR {
+	font-family: Optima;
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+	position: absolute;
+	width: 420px;
+	height: 35px;
+	border: grey 2px solid;
+	padding: 8px;
+	background:#010113;
+	color: white;
+	margin-left: 20px;
+	transition:margin-left 1s;
+	-webkit-transition:margin-left 1s;
+}
+
+.FOUR:hover {
+	margin-left: 1000px;
+}
+
+.FIVE {
+	font-family: Optima;
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+	position: absolute;
+	width: 470px;
+	height: 35px;
+	border: grey 2px solid;
+	padding: 8px;
+	background:#010113;
+	color: white;
+	margin-left: 20px;
+	transition:margin-left 1s;
+	-webkit-transition:margin-left 1s;
+}
+
+.FIVE:hover {
+	margin-left: 900px;
+}
+
+.SIX {
+	font-family: Optima;
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+	position: absolute;
+	width: 550px;
+	height: 35px;
+	border: grey 2px solid;
+	padding: 8px;
+	background:#010113;
+	color: white;
+	margin-left: 20px;
+	transition:margin-left 1s;
+	-webkit-transition:margin-left 1s;
+}
+
+.SIX:hover {
+	margin-left: 800px;
+}
+
+.SEVEN {
+	font-family: Optima;
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+	position: absolute;
+	width: 490px;
+	height: 35px;
+	border: grey 2px solid;
+	padding: 8px;
+	background:#010113;
+	color: white;
+	margin-left: 20px;
+	transition:margin-left 1s;
+	-webkit-transition:margin-left 1s;
+}
+
+.SEVEN:hover {
+	margin-left: 700px;
+}
+
+.EIGHT {
+	font-family: Optima;
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+	position: absolute;
+	width: 465px;
+	height: 35px;
+	border: grey 2px solid;
+	padding: 8px;
+	background:#010113;
+	color: white;
+	margin-left: 20px;
+	transition:margin-left 1s;
+	-webkit-transition:margin-left 1s;
+}
+
+.EIGHT:hover {
+	margin-left: 600px;
+}
+
+.NINE {
+	font-family: Optima;
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+	position: absolute;
+	width: 540px;
+	height: 35px;
+	border: grey 2px solid;
+	padding: 8px;
+	background:#010113;
+	color: white;
+	margin-left: 20px;
+	transition:margin-left 1s;
+	-webkit-transition:margin-left 1s;
+}
+
+.NINE:hover {
+	margin-left: 500px;
+}
+
+.TEN {
+	font-family: Optima;
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+	position: absolute;
+	width: 450px;
+	height: 35px;
+	border: grey 2px solid;
+	padding: 8px;
+	background:#010113;
+	color: white;
+	margin-left: 20px;
+	transition:margin-left 1s;
+	-webkit-transition:margin-left 1s;
+}
+
+.TEN:hover {
+	margin-left: 400px;
+}

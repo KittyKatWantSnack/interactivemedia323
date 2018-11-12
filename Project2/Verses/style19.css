@@ -1,0 +1,146 @@
+.main {
+	font-family: OCR A Std;
+	text-align: center;
+	color: black;
+	font-size: 18px;
+}
+
+.One {
+	font-family: Trattatello;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: capitalize;
+	text-align: left;
+	margin-left: 200px;
+	margin-top: 200px;
+	padding: 8px;
+	border: solid black 3px;
+	border-left: solid black 15px;
+	width: 340px;
+}
+
+.Two {
+	font-family: Trattatello;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: capitalize;
+	text-align: left;
+	margin-left: 400px;
+	margin-top: 10px;
+	padding: 8px;
+	border: solid black 3px;
+	border-left: solid black 15px;
+	width: 330px;
+}
+
+.Three {
+	font-family: Trattatello;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: capitalize;
+	text-align: left;
+	margin-left: 600px;
+	margin-top: 10px;
+	padding: 8px;
+	border: solid black 3px;
+	border-left: solid black 15px;
+	width: 290px;
+}
+
+.Four {
+	font-family: Trattatello;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: capitalize;
+	text-align: left;
+	margin-left: 800px;
+	margin-top: 10px;
+	padding: 8px;
+	border: solid black 3px;
+	border-left: solid black 15px;
+	width: 280px;
+}
+
+.Five {
+	font-family: Trattatello;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: capitalize;
+	text-align: left;
+	margin-left: 1000px;
+	margin-top: 10px;
+	padding: 8px;
+	border: solid black 3px;
+	border-left: solid black 15px;
+	width: 320px;
+}
+
+.Six {
+	font-family: Trattatello;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: capitalize;
+	text-align: left;
+	margin-left: 1200px;
+	margin-top: 10px;
+	padding: 8px;
+	border: solid black 3px;
+	border-left: solid black 15px;
+	width: 360px;
+}
+
+.Seven {
+	font-family: Trattatello;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: capitalize;
+	text-align: left;
+	margin-left: 1400px;
+	margin-top: 10px;
+	padding: 8px;
+	border: solid black 3px;
+	border-left: solid black 15px;
+	width: 340px;
+}
+
+.Eight {
+	font-family: Trattatello;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: capitalize;
+	text-align: left;
+	margin-left: 1600px;
+	margin-top: 10px;
+	padding: 8px;
+	border: solid black 3px;
+	border-left: solid black 15px;
+	width: 290px;
+}
+
+.Nine {
+	font-family: Trattatello;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: capitalize;
+	text-align: left;
+	margin-left: 1800px;
+	margin-top: 10px;
+	padding: 8px;
+	border: solid black 3px;
+	border-left: solid black 15px;
+	width: 340px;
+}
+
+.Ten {
+	font-family: Trattatello;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: capitalize;
+	text-align: left;
+	margin-left: 2000px;
+	margin-top: 10px;
+	padding: 8px;
+	border: solid black 3px;
+	border-left: solid black 15px;
+	width: 280px;	
+}
