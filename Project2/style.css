@@ -1,0 +1,158 @@
+body {
+	background-image: linear-gradient(#808080, #5E5E5E, #313131, #171717, #101010);
+	background-attachment: fixed;
+	width: 100%;
+	height: 100%;
+}
+
+a {
+	text-decoration: none;
+	color: #282828;
+}
+
+.title {
+	font-size: 40px;
+	margin-top: 50px;
+	text-align: center;
+	font-family: Luminari;
+}
+
+.Grave1 {
+width: 300px;
+height: 600px;
+position: absolute;
+margin-top: 400px;
+margin-left: 30px;
+}
+
+.Level1 {
+font-family: Trattatello;
+position: relative;
+text-align: left;
+margin-left: 135px;
+top: 530px;
+font-size: 26px;
+letter-spacing: 2px;
+}
+
+.Grave2 {
+width: 300px;
+height: 600px;
+position: absolute;
+margin-left: 360px;
+margin-top: 72px;
+}
+
+.Level2 {
+font-family: Trattatello;
+position: relative;
+text-align: left;
+margin-left: 460px;
+top: 260px;
+font-size: 26px;
+letter-spacing: 2px;
+}
+
+.Grave3 {
+width: 300px;
+height: 600px;
+position: absolute;
+margin-left: 690px;
+margin-top: -197px;
+}
+
+.Level3 {
+font-family: Trattatello;
+position: relative;
+text-align: left;
+margin-left: 790px;
+top: -10px;
+font-size: 26px;
+letter-spacing: 2px;
+}
+
+.Grave4 {
+width: 300px;
+height: 600px;
+position: absolute;
+margin-left: 1020px;
+margin-top: -540px;
+}
+
+.Level4 {
+font-family: Trattatello;
+position: relative;
+text-align: left;
+margin-left: 1120px;
+top: -200px;
+font-size: 26px;
+letter-spacing: 2px;
+}
+
+.Grave5 {
+width: 300px;
+height: 600px;	
+position: absolute;
+margin-left: 1350px;
+margin-top: -465px;
+}
+
+.Level5 {
+font-family: Trattatello;
+position: relative;
+text-align: left;
+margin-left: 1450px;
+top: -380px;
+width: 300px;
+font-size: 26px;
+letter-spacing: 2px;
+}
+
+.grass1 {
+	width: 300px;
+	height: 50px;
+	margin-top: -400px;
+	margin-left:40px;
+	position: absolute;
+}
+
+.grass2 {
+	width: 300px;
+	height: 50px;
+	margin-top: -400px;
+	margin-left:370px;
+	position: absolute;
+}
+
+.grass3 {
+	width: 300px;
+	height: 50px;
+	margin-top: -400px;
+	margin-left:690px;
+	position: absolute;
+}
+
+.grass4 {
+	width: 300px;
+	height: 50px;
+	margin-top: -400px;
+	margin-left:1020px;
+	position: absolute;
+}
+
+.grass5 {
+	width: 300px;
+	height: 50px;
+	margin-top: -400px;
+	margin-left:1350px;
+	position: absolute;
+}
+
+.Graves {
+	height: 300px;
+	width: 1900px;
+	position: absolute;
+	top: 450px;
+	left:200px;
+	filter: blur(3px);
+}
