@@ -1,0 +1,41 @@
+body {
+	background-color: #E0E0E1;
+}
+
+.one {
+font-family: Minion Pro;
+text-align: center;
+font-size: 42px;
+margin-top: 200px;
+}
+
+.two {
+font-family: Minion Pro;
+text-align: center;
+font-size: 12px;
+}
+
+.three {
+font-family: Minion Pro;
+text-align: center;
+font-size: 42px;
+margin-top: 400px;
+}
+
+.four {
+font-family: Minion Pro;
+text-align: center;
+font-size: 12px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.hurt {
+	position: absolute;
+	z-index: -1;
+	right: 10%;
+	top: 70%;
+}

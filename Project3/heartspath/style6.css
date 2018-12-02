@@ -1,0 +1,40 @@
+body {
+	background-color: #E0E0E1;
+}
+
+.one {
+font-family: Minion Pro;
+font-size: 42px;
+margin-top: 500px;
+margin-left: 300px;
+font-style: italic;
+}
+
+.two {
+font-family: Minion Pro;
+font-size: 42px;
+margin-left: 300px;
+font-style: italic;
+margin-top: -10px;
+}
+
+.three {
+font-family: Minion Pro;
+font-size: 134px;
+margin-left: 470px;
+font-weight: bold;
+font-style: italic;
+margin-top: -60px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.dead {
+	position: absolute;
+	z-index: -1;
+	top: 400px;
+	left: 780px;
+}

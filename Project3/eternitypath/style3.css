@@ -1,0 +1,45 @@
+body {
+	background-color: #E0E0E1;
+}
+
+.one {
+font-family: Minion Pro;
+font-size: 46px;
+transform: rotate(18deg);
+-webkit-transform: rotate(18deg);
+position: absolute;
+margin-top: 300px;
+margin-left: 40px;
+}
+
+.two {
+font-family: Minion Pro;
+font-size: 34px;
+transform: rotate(18deg);
+-webkit-transform: rotate(18deg);
+position: absolute;
+margin-top: 400px;
+margin-left: 200px;
+}
+
+.three {
+font-family: Minion Pro;
+font-size: 22px;
+transform: rotate(18deg);
+-webkit-transform: rotate(18deg);
+position: absolute;
+margin-top: 700px;
+margin-left: 800px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.blood {
+	position: absolute;
+	z-index: -1;
+	right: 20%;
+	top: 35%;
+}

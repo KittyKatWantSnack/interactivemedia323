@@ -1,0 +1,99 @@
+body {
+	background-color: #E0E0E1;
+}
+
+.one {
+font-family: Minion Pro;
+font-size: 23px;
+margin-top: 200px;
+margin-left: 300px;
+}
+
+.two {
+font-family: Minion Pro;
+font-size: 37px;
+transform: rotate(8deg);
+-webkit-transform: rotate(8deg);
+position: absolute;
+margin-left: 300px;
+}
+
+.three {
+font-family: Minion Pro;
+font-size: 45px;
+transform: rotate(-10deg);
+-webkit-transform: rotate(-10deg);
+position: absolute;
+margin-left: 314px;
+margin-top: 36px;
+}
+
+.four {
+font-family: Minion Pro;
+font-size: 67px;
+font-weight: bold;
+font-style: italic;
+transform: rotate(3deg);
+-webkit-transform: rotate(3deg);
+position: absolute;
+margin-left: 255px;
+margin-top: 63px;
+}
+
+.five {
+font-family: Minion Pro;
+font-size: 23px;
+margin-top: 600px;
+margin-left: 500px;
+}
+
+.six {
+font-family: Minion Pro;
+font-size: 40px;
+transform: rotate(-8deg);
+-webkit-transform: rotate(-8deg);
+position: absolute;
+margin-left: 480px;
+margin-top: -11px;
+}
+
+.seven {
+font-family: Minion Pro;
+font-size: 56px;
+transform: rotate(9deg);
+-webkit-transform: rotate(9deg);
+margin-left: 442px;
+margin-top: 15px;
+position: absolute;
+}
+
+.eight {
+font-family: Minion Pro;
+font-size: 81px;
+transform: rotate(-6deg);
+-webkit-transform: rotate(-6deg);
+position: absolute;
+margin-top: 48px;
+margin-left: 415px;
+}
+
+.nine {
+font-family: Minion Pro;
+font-weight: bold;
+font-style: italic;
+font-size: 95px;
+margin-left: 371px;
+margin-top: 88px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.dude {
+	position: absolute;
+	z-index: -1;
+	top: 300px;
+	left: 900px;
+}

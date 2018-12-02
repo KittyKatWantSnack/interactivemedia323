@@ -1,0 +1,38 @@
+body {
+	background-color: #E0E0E1;
+}
+
+.one {
+font-family: Minion Pro;
+font-size: 25px;
+margin-top: 300px;
+margin-left: 900px;
+}
+
+.two {
+font-family: Minion Pro;
+font-size: 36px;
+margin-left: 982px;
+margin-top: -2px;
+}
+
+.three {
+font-family: Minion Pro;
+font-size: 100px;
+font-style: italic;
+font-weight: bold;
+margin-left: 1012px;
+margin-top: -30px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.dude {
+	position: absolute;
+	z-index: -1;
+	top: 60%;
+	left: 100px;
+}

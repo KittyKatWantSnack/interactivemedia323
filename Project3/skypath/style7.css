@@ -1,0 +1,41 @@
+body {
+	background-color: #E0E0E1
+}
+
+.one {
+font-family: Minion Pro;
+font-size: 15px;
+margin-top: 200px;
+text-align: center;
+}
+
+.two {
+font-family: Minion Pro;
+font-size: 400px;
+font-weight: bold;
+text-align: center;
+transform: rotate(-14deg);
+-webkit-transform: rotate(-14deg);
+position: absolute;
+margin-left: 30%;
+margin-top: -100px;
+}
+
+.three {
+font-family: Minion Pro;
+font-size: 25px;
+margin-top: 40%;
+margin-left: 70%;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.brain {
+	position: absolute;
+	z-index: -1;
+	right: 8%;
+	top: 50%;
+}
