@@ -1,0 +1,51 @@
+body {
+	background-color: #E0E0E1;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.One {
+	font-family: Georgia;
+	font-size: 40px;
+	letter-spacing: 3px;
+	padding-left: 100px;
+	margin-top: 300px;
+}
+
+.Two {
+	font-family: Georgia;
+	font-size: 40px;
+	letter-spacing: 3px;
+	padding-left: 100px;
+}
+
+.Three {
+	font-family: Georgia;
+	font-size: 40px;
+	letter-spacing: 3px;
+	padding-left: 100px;
+}
+
+.Four {
+	font-family: Georgia;
+	font-size: 40px;
+	letter-spacing: 3px;
+	padding-left: 100px;
+}
+
+.heart {
+	position: absolute;
+	z-index: -1;
+	top: 100px;
+	right: 100px; 
+}
+
+.heart2 {
+	position: absolute;
+	z-index: -1;
+	top: 120px;
+	right: 60px;
+}

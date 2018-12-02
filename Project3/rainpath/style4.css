@@ -1,0 +1,47 @@
+body {
+	background-color: #E0E0E1;
+}
+
+.one {
+font-family: Minion Pro;
+font-size: 48px;
+margin-top: 2%;
+margin-left: 700px;
+}
+
+.two {
+font-family: Minion Pro;
+font-size: 48px;
+margin-left: 826px;
+}
+
+.three {
+font-family: Minion Pro;
+font-size: 48px;
+margin-left: 880px;
+}
+
+.four {
+font-family: Minion Pro;
+font-size: 72px;
+font-weight: bold;
+margin-left: 1030px;
+}
+
+.five {
+font-family: Minion Pro;
+font-size: 48px;
+margin-left: 1150px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.world {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+}

@@ -1,0 +1,53 @@
+body {
+	background-color: #E0E0E1;
+}
+
+.one {
+font-family: Minion Pro;
+margin-left: 500px;
+margin-top: 300px;
+font-size: 40px;
+}
+
+.two {
+font-family: Minion Pro;
+font-size: 59px;
+margin-left: 560px;
+}
+
+.three {
+font-family: Minion Pro;
+font-size: 216px;
+margin-left: 650px;
+margin-top: -100px;
+}
+
+.four {
+font-family: Minion Pro;
+font-size: 28px;
+margin-left: 1000px;
+transform: rotate(30deg);
+-webkit-transform: rotate(30deg);
+position: absolute;
+}
+
+.five {
+font-family: Minion Pro;
+font-size: 23px;
+margin-left: 1000px;
+transform: rotate(60deg);
+-webkit-transform: rotate(60deg);
+position: absolute;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.rain {
+	position: absolute;
+	z-index: -1;
+	top: 30px;
+	left: 50%;
+}

@@ -1,0 +1,59 @@
+body {
+	background-color: #E0E0E1;
+}
+
+.one {
+font-family: Minion Pro;
+font-size: 48px;
+margin-top: 300px;
+margin-left: 1000px;
+}
+
+.two {
+font-family: Minion Pro;
+font-size: 72px;
+font-style: italic;
+margin-left: 1146px;
+margin-top: -20px;
+transform: rotate(30deg);
+-webkit-transform: rotate(30deg);
+position: absolute;
+}
+
+.three {
+font-family: Minion Pro;
+font-size: 48px;
+margin-left: 850px;
+}
+
+.four {
+font-family: Minion Pro;
+font-size: 67px;
+margin-left: 1100px;
+}
+
+.five {
+font-family: Minion Pro;
+font-size: 55px;
+font-style: italic;
+font-weight: bold;
+margin-left: 1200px;
+}
+
+.six {
+font-family: Minion Pro;
+font-size: 48px;
+margin-left: 1360px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.down {
+	position: absolute;
+	z-index: -1;
+	right: 10%;
+	top: 70%;
+}

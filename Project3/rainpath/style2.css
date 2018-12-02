@@ -1,0 +1,36 @@
+body {
+	background-color: #E0E0E1;
+}
+
+.one {
+font-family: Minion Pro;
+font-size: 36px;
+margin-top: 330px;
+margin-left: 700px;
+}
+
+.two {
+font-family: Minion Pro;
+font-size: 187px;
+margin-left: 710px;
+margin-top: -22px;
+}
+
+.three {
+font-family: Minion Pro;
+font-size: 25px;
+margin-left: 1270px;
+margin-top: -60px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.sad {
+	position: absolute;
+	z-index: -1;
+	top: 100px;
+	right: 10%;
+}

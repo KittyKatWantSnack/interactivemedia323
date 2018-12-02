@@ -1,0 +1,136 @@
+body {
+	background-color: #E0E0E1;
+}
+
+.lap {
+	display: block;
+	width: 150px;
+	height: 150px;
+	float: right;
+	margin-top: -150px;
+}
+
+.one {
+font-family: Minion Pro;
+font-size: 31px;
+font-style: italic;
+margin-top: 50px;
+margin-left: 600px;
+}
+
+.two {
+font-family: Minion Pro;
+font-size: 124px;
+font-weight: bold;
+margin-left: 600px;
+margin-top: -15px;
+}
+
+.three {
+font-family: Minion Pro;
+font-size: 236px;
+font-weight: bold;
+margin-left: 580px;
+margin-top: -54px;
+}
+
+.four {
+font-family: Minion Pro;
+font-size: 404px;
+font-weight: bold;
+margin-left: 1190px;
+margin-top: -426px;
+}
+
+.more {
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: -160px;
+height: 200px;
+width: 200px;
+}
+
+.again {
+	display: block;
+	width: 150px;
+	height: 150px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.One {
+	margin-left: 300px;
+	top: 200px;
+	position: absolute;
+	z-index: -1;
+}
+
+.Two {
+	position: absolute;
+	z-index: -1;
+	top: 500px;
+	right: 100px;
+}
+
+.Three {
+	position: absolute;
+	z-index: -1;
+	top: 800px;
+	left: 50px;
+}
+
+.Four {
+	position: absolute;
+	z-index: -1;
+	top: 700px;
+	right: 400px;
+
+}
+
+.Five {
+	position: absolute;
+	z-index: -1;
+	top: 100px;
+	left: 0;
+
+}
+
+.Six {
+	position: absolute;
+	z-index: -1;
+	top: 650px;
+	left:1000px;
+}
+
+.Seven {
+	position: absolute;
+	z-index: -1;
+	top: 10px;
+	right: 50px;
+
+}
+
+.Eight {
+	position: absolute;
+	z-index: -1;
+	left:150px;
+	top: 300px;
+}
+
+.Nine {
+	position: absolute;
+	z-index: -1;
+	top: 320px;
+	left: 830px;
+}
+
+.Ten {
+	position: absolute;
+	z-index: -1;
+	top: 560px;
+	left: 480px;
+}

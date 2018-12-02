@@ -1,0 +1,63 @@
+body {
+	background-color: #E0E0E1;
+}
+
+.one {
+font-family: Minion Pro;
+font-size: 31px;
+font-style: italic;
+margin-top: 50px;
+margin-left: 600px;
+}
+
+.two {
+font-family: Minion Pro;
+font-size: 124px;
+font-weight: bold;
+margin-left: 600px;
+margin-top: -15px;
+}
+
+.three {
+font-family: Minion Pro;
+font-size: 236px;
+font-weight: bold;
+margin-left: 580px;
+margin-top: -54px;
+}
+
+.four {
+font-family: Minion Pro;
+font-size: 404px;
+font-weight: bold;
+margin-left: 1190px;
+margin-top: -426px;
+}
+
+.more {
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: -160px;
+height: 200px;
+width: 200px;
+}
+
+.again {
+	display: block;
+	width: 150px;
+	height: 150px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.lap {
+	display: block;
+	width: 150px;
+	height: 150px;
+	float: right;
+	margin-top: -150px;
+}
